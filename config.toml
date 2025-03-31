@@ -9,4 +9,5 @@ parallel-jobs = 1
 [Spotify]
 enabled = true
 included-patches = "'Custom theme'"
+apkmirror-dlurl = "https://apkmirror.com/apk/spotify-ab"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
